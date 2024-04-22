@@ -1,1 +1,5 @@
 # project-3-katherine
+Project 3 – NYC 311 calls
+NYC 311 is a service that provides access to non-emergency City services and info about City government programs to the residents of New York.  Each year, the service receives millions of requests reporting various kinds of problems with city services and other issues.
+The data on the type of calls received, and their ultimate resolution is made available through the NYC Open Data portal at https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9. The data is updated daily.  The link also provides the data dictionary for the data.
+To ensure that we are all using the same data and arrive at the same results, the data has been downloaded and includes information up to 2023-08-04 12:00:00.  Several columns not required for this project have been removed from the original data.  (As an additional exercise to showcase your skills, you should feel free to download the entire dataset from the URL above for investigation.)
